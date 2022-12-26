@@ -1,0 +1,22 @@
+{
+  "name": "Ariel Ventura",
+  "description": "Fullstack Developer",
+  "image_url": "https://raw.githubusercontent.com/arielventu/my-links/main/profile-picture.jpeg",
+  "links": [
+    {
+      "title": "LinkedIn",
+      "url": "https://bit.ly/3C3GOdz",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://bit.ly/3Z0myDE",
+      "icon": "github"
+    },
+    {
+      "title": "CV",
+      "url": "https://bit.ly/3DBfjsR",
+      "icon": "file-text"
+    }
+  ]
+}
